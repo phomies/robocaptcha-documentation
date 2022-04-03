@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Fast and Effective',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/robocaptcha_fast.svg').default,
     description: (
       <>
         Our solution, roboCAPTCHA strives to be an effective means for filtering
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Focus on Important Calls',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/robocaptcha_fast.svg').default,
     description: (
       <>
         Call filtering by roboCAPTCHA will only subject unknown callers who have never
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Track your Communications',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/robocaptcha_fast.svg').default,
     description: (
       <>
         Users will be able to view their call history and track their robocall trends

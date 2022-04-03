@@ -12,8 +12,10 @@ There has been an uptick in robocalls and a general rise in scams over the recen
 
 ### Our Name
 roboCAPTCHA can be broken down into two parts:
-- **robo**: Reference to our main adversary and fraudulent scams which are done at scale through automated robots. Lowercase to show the insignificance of such threats due to the strength of our solution.
-- **CAPTCHA**: CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart - a concept we based our application on to detect bots.
+
+**robo**: Reference to our main adversary and fraudulent scams which are done at scale through automated robots. Lowercase to show the insignificance of such threats due to the strength of our solution.
+
+**CAPTCHA**: CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart - a concept we based our application on to detect bots.
 
 ### Our Vision
 roboCAPTCHA aims to significantly reduce scams worldwide, tackling any form of scams that arise as technology and cybercrime progresses. We employ rigorous verification techniques to prevent scams from reaching the receiver, and protect unsuspecting individuals from falling prey to malicious scams.
