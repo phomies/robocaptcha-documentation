@@ -55,7 +55,6 @@ const config = {
             position: 'left',
             label: 'Documentation',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/phomies/robocaptcha',
             label: 'GitHub',
