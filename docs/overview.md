@@ -1,7 +1,6 @@
 ---
 sidebar_position: 2
 ---
-
 ## Architecture Diagram
 
 ![roboCAPTCHA Architecture](https://user-images.githubusercontent.com/15935990/161421537-d780e07e-302a-47cc-b7c5-3c980b78aa05.png)
