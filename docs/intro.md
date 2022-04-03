@@ -2,46 +2,22 @@
 sidebar_position: 1
 ---
 
-# roboCAPTCHA - Introduction
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Visit our live deployed website: **[robocaptcha.xyz](https://robocaptcha.xyz/)**
 
-## Getting Started
+## About
 
-Get started by **creating a new site**.
+There has been an uptick in robocalls and a general rise in scams over the recent years. Our solution, roboCAPTCHA, is well-positioned to tackle this issue by through a screening mechanism for incoming calls.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Our Name
+roboCAPTCHA can be broken down into two parts:
+- **robo**: Reference to our main adversary and fraudulent scams which are done at scale through automated robots. Lowercase to show the insignificance of such threats due to the strength of our solution.
+- **CAPTCHA**: CAPTCHA stands for Completely Automated Public Turing test to tell Computers and Humans Apart - a concept we based our application on to detect bots.
 
-### What you'll need
+### Our Vision
+roboCAPTCHA aims to significantly reduce scams worldwide, tackling any form of scams that arise as technology and cybercrime progresses. We employ rigorous verification techniques to prevent scams from reaching the receiver, and protect unsuspecting individuals from falling prey to malicious scams.
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### Target Audience
+- Young adults, aged between 18-24 years old - accounts for 42% of robocall scam victims
+- Individuals who highly value their time, and do not wish to be disrupted by robocalls.
