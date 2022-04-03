@@ -24,7 +24,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/phomies/robocaptcha',
+          editUrl: 'https://github.com/phomies/robocaptcha-documentation',
         },
         // blog: {
         //   showReadingTime: true,
@@ -106,7 +106,7 @@ const config = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} roboCAPTCHA, by Phomies CS206 G2T06<br>Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} roboCAPTCHA, by CS206 G2T06 (Phomies)<br>Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
