@@ -16,8 +16,8 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
-            roboCAPTCHA Guide - 5min ⏱️
+            to="/docs/introduction">
+            Learn more
           </Link>
         </div>
       </div>
