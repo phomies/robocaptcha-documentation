@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 ## Architecture Diagram
 
-![roboCAPTCHA Architecture](https://user-images.githubusercontent.com/15935990/161421537-d780e07e-302a-47cc-b7c5-3c980b78aa05.png)
+![Week 13 SPM](https://user-images.githubusercontent.com/15935990/161755173-e7795f18-3ab8-41b8-95d2-5b565b5618c8.jpg)
 
 ## Components
 
