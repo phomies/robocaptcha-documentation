@@ -1,14 +1,23 @@
-### User Manual
+---
+sidebar_position: 2
+---
+
+### Easy Deployment for all Services
 
 Our web app can be found at url: https://robocaptcha.xyz/
 
-You can deploy all services by executing the following commands:
+You can deploy all services locally through docker-compose by executing the following commands after ensuring that your ports 4999, 5000-5003 are open:
 
 ```bash
 docker-compose up -d --build
 ```
+Do note that it may take up to 10 minutes to pull and build all images for the first time.
+
+### Individual Services
 
 Alternatively, you may refer to our documentation for local deployment options for each service.
+
+### Using roboCAPTCHA
 
 To test out our web app features, you may log into a test account (either with Google authenticator or standard email/pw login) we have prepared
 using the following credentials:
