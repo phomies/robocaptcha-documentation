@@ -2,7 +2,13 @@
 
 Our web app can be found at url: https://robocaptcha.xyz/
 
-Alternatively, you may refer to our documentation for local deployment options.
+You can deploy all services by executing the following commands:
+
+```bash
+docker-compose up -d --build
+```
+
+Alternatively, you may refer to our documentation for local deployment options for each service.
 
 To test out our web app features, you may log into a test account (either with Google authenticator or standard email/pw login) we have prepared
 using the following credentials:
@@ -16,3 +22,4 @@ You may also change the phone number of the account under the Profile tab, which
 
 To test our whitelist and blacklist features, click on the Lists tab. You may add your personal caller number in either list with the '+'
 icon, remember to include the country code prefix e.g. '+65' to your number. You may call the masked number again to observe the resultant effect.
+
