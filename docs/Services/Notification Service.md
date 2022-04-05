@@ -13,6 +13,8 @@ user on roboCAPTCHA frontend web app through a WebSocket connection.
 | ------------------------ | --------------------------------------------------------------- |
 | MONGODB_URL              | Connection string to establish an instance for MongoDB          |
 | AWS_SQS_NOTIFICATION_URL | URL endpoint that receives messages in AWS Simple Queue Service |
+| AWS_ACCESS_KEY_ID        | AWS Access Key ID                                               |
+| AWS_SECRET_ACCESS_KEY    | AWS Secret                                                      |
 
 ### Cloning the Repository
 ```bash
