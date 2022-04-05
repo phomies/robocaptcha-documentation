@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 ## Architecture Diagram
 
-![Week 13 SPM](https://user-images.githubusercontent.com/15935990/161755173-e7795f18-3ab8-41b8-95d2-5b565b5618c8.jpg)
+![Architecture Diagram](https://user-images.githubusercontent.com/15935990/161755173-e7795f18-3ab8-41b8-95d2-5b565b5618c8.jpg)
 
 ## Components
 
