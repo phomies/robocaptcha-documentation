@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Focus on Important Calls',
-    Svg: require('@site/static/img/robocaptcha_fast.svg').default,
+    Svg: require('@site/static/img/robocaptcha_focus.svg').default,
     description: (
       <>
         Call filtering by roboCAPTCHA will only subject unknown callers who have never
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Track your Communications',
-    Svg: require('@site/static/img/robocaptcha_fast.svg').default,
+    Svg: require('@site/static/img/robocaptcha_comm.svg').default,
     description: (
       <>
         Users will be able to view their call history and track their robocall trends

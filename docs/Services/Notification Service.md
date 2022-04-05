@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-Allow real-time notifications to reach users currently using the roboCAPTCHA web app, alerting them of any blocked robo calls detected by our filtering system or any legitimate human callers that successfully 
+Allow real-time notifications to reach users currently using the roboCAPTCHA web app, alerting them of any blocked robocalls detected by our filtering system or any legitimate human callers that successfully 
 passed our verification.
 
 Makes use of Amazon SQS to receive messages from the roboCAPTCHA service, sends notifications to the 
